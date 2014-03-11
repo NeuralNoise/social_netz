@@ -1,1 +1,2 @@
-// This is my first social media networking website
+// This is my first social media networking website. 
+// Its a simple website
