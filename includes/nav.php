@@ -1,8 +1,8 @@
 <nav>
 
 	<a href="#">Home</a>
+	<a href="">Sign up</a>
+	<a href="login.php">Log in</a>
 	<a href="#">About</a>
-	<a href="#">Portfolio</a>
-	<a href="#">Contact</a>
 
 </nav> <!-- end #nav -->

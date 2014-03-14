@@ -1,6 +1,6 @@
 <?php // Example 21-1: functions.php
-require_once 'login.php';
-
+require_once 'settings.php';
+FB::info('database settings done');
 mysql_connect($dbhost, $dbuser, $dbpass) or die(mysql_error());
 mysql_select_db($dbname) or die(mysql_error());
 
