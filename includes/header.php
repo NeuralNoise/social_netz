@@ -10,8 +10,10 @@ echo '<!DOCTYPE html>
 		<meta name="keywords" content="Socail Media, Simple Social Media" />
 		<meta name="author" content="Faysal Shahzad" />
 
-		<link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen" />
+		<!-- <link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen" /> -->
+		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="css/styles.css" media="screen" />
 		
 		<script src = "js/OSC.js"></script>';
 		
